@@ -4,10 +4,7 @@
 
 <a href="https://addons.mozilla.org/fr/firefox/addon/leiaccessible/" target="_blank">Extension Firefox disponible ici</a>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=SUE6DABRW4HWY" target="_blank">FAITES-MOI UN DON :)</a>
-
-
-<hr/>
+<hr>
 
 ## LÉIA, c'est quoi ?
 
